@@ -12,7 +12,7 @@ public class Test {
     
    
    public void setName(){
-       
+       this.name = name;
    }
    
 }
