@@ -3,12 +3,16 @@ package test;
 
 
 public class Test {
+   private String name;
+   private int no;
+   
+   public String getName(){
+   return name;
+    }
     
-class t1{
-
-
-    } 
-class t2{
-
-    }    
+   
+   public void setName(){
+       
+   }
+   
 }
