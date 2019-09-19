@@ -8,5 +8,7 @@ class t1{
 
 
     } 
-    
+class t2{
+
+    }    
 }
